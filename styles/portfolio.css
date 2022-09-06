@@ -67,6 +67,14 @@ p {
   padding: 120px 60px;
 }
 
+.weather-image {
+  background-color: var(--secondary-color);
+}
+
+.triathlon-image {
+  background-color: var(--secondary-color);
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
