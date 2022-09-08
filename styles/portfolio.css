@@ -46,8 +46,8 @@ p {
   line-height: 1.5;
   font-size: 24px;
 }
-.content-contanier {
-  padding: 160px 20px;
+.content-container {
+  padding: 60px 20px;
 }
 
 .content h1 {
@@ -92,6 +92,14 @@ p {
 
 .project-description {
   padding: 120px 60px;
+}
+
+.active {
+  color: var(--branding-color) !important;
+}
+
+.nav-item {
+  padding: 0 10px;
 }
 
 @media (max-width: 900px) {
